@@ -10,3 +10,4 @@
 1. リンゴ
 2. 蜜柑
 3. バナナ
+ New line added by a local environment.
